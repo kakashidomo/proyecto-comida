@@ -13,7 +13,6 @@ function App() {
       <SideBar />
       <div className="flex flex-col">
       <NavBar/>
-
       <CardsMain/>
       </div>
     </div>
